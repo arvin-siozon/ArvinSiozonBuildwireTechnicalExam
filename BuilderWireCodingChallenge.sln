@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuilderWireCodingChallenge", "BuilderWireCodingChallenge\BuilderWireCodingChallenge.csproj", "{4E3486BC-9EA6-49C6-8DB7-43EBD9385D18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderWireCodingChallenge.Business", "BuilderWireCodingChallenge.Business\BuilderWireCodingChallenge.Business.csproj", "{D9756C3F-DCF7-48EC-8B1B-C655D58B3C5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderWireCodingChallenge.Business.Tests", "BuilderWireCodingChallenge.Business.Tests\BuilderWireCodingChallenge.Business.Tests.csproj", "{775C48E9-11B3-4AE2-97FD-FB3A5FBD8C2D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{89759143-0547-4D7D-9C59-B5125DB3C197}"
+	ProjectSection(SolutionItems) = preProject
+		Instructions.txt = Instructions.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderWireCodingChallenge.Domain", "BuilderWireCodingChallenge.Domain\BuilderWireCodingChallenge.Domain.csproj", "{013FD572-DBB4-4B78-B5B6-91D74853823C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E3486BC-9EA6-49C6-8DB7-43EBD9385D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E3486BC-9EA6-49C6-8DB7-43EBD9385D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E3486BC-9EA6-49C6-8DB7-43EBD9385D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E3486BC-9EA6-49C6-8DB7-43EBD9385D18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9756C3F-DCF7-48EC-8B1B-C655D58B3C5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9756C3F-DCF7-48EC-8B1B-C655D58B3C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9756C3F-DCF7-48EC-8B1B-C655D58B3C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9756C3F-DCF7-48EC-8B1B-C655D58B3C5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{775C48E9-11B3-4AE2-97FD-FB3A5FBD8C2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{775C48E9-11B3-4AE2-97FD-FB3A5FBD8C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{775C48E9-11B3-4AE2-97FD-FB3A5FBD8C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{775C48E9-11B3-4AE2-97FD-FB3A5FBD8C2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{013FD572-DBB4-4B78-B5B6-91D74853823C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{013FD572-DBB4-4B78-B5B6-91D74853823C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{013FD572-DBB4-4B78-B5B6-91D74853823C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{013FD572-DBB4-4B78-B5B6-91D74853823C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E08406A-C2B1-447D-B39E-B38A419F2F5A}
+	EndGlobalSection
+EndGlobal
