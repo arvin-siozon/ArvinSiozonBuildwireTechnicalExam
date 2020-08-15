@@ -1,0 +1,56 @@
+E:\Tech Exam\BuilderWireCodingChallenge\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\BuilderWireCodingChallenge.exe
+E:\Tech Exam\BuilderWireCodingChallenge\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\BuilderWireCodingChallenge.deps.json
+E:\Tech Exam\BuilderWireCodingChallenge\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\BuilderWireCodingChallenge.runtimeconfig.json
+E:\Tech Exam\BuilderWireCodingChallenge\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\BuilderWireCodingChallenge.runtimeconfig.dev.json
+E:\Tech Exam\BuilderWireCodingChallenge\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\BuilderWireCodingChallenge.dll
+E:\Tech Exam\BuilderWireCodingChallenge\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\BuilderWireCodingChallenge.pdb
+E:\Tech Exam\BuilderWireCodingChallenge\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\BuilderWireCodingChallenge.Business.dll
+E:\Tech Exam\BuilderWireCodingChallenge\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\BuilderWireCodingChallenge.Business.pdb
+E:\Tech Exam\BuilderWireCodingChallenge\BuilderWireCodingChallenge\obj\Debug\netcoreapp3.1\BuilderWireCodingChallenge.csprojAssemblyReference.cache
+E:\Tech Exam\BuilderWireCodingChallenge\BuilderWireCodingChallenge\obj\Debug\netcoreapp3.1\BuilderWireCodingChallenge.AssemblyInfoInputs.cache
+E:\Tech Exam\BuilderWireCodingChallenge\BuilderWireCodingChallenge\obj\Debug\netcoreapp3.1\BuilderWireCodingChallenge.AssemblyInfo.cs
+E:\Tech Exam\BuilderWireCodingChallenge\BuilderWireCodingChallenge\obj\Debug\netcoreapp3.1\BuilderWireCodingChallenge.csproj.CopyComplete
+E:\Tech Exam\BuilderWireCodingChallenge\BuilderWireCodingChallenge\obj\Debug\netcoreapp3.1\BuilderWireCodingChallenge.dll
+E:\Tech Exam\BuilderWireCodingChallenge\BuilderWireCodingChallenge\obj\Debug\netcoreapp3.1\BuilderWireCodingChallenge.pdb
+E:\Tech Exam\BuilderWireCodingChallenge\BuilderWireCodingChallenge\obj\Debug\netcoreapp3.1\BuilderWireCodingChallenge.genruntimeconfig.cache
+E:\Tech Exam\BuilderWireCodingChallenge\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\BuilderWireCodingChallenge.dll.config
+E:\Tech Exam\BuilderWireCodingChallenge\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Tech Exam\BuilderWireCodingChallenge\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Tech Exam\BuilderWireCodingChallenge\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\Tech Exam\BuilderWireCodingChallenge\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Tech Exam\BuilderWireCodingChallenge\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\Tech Exam\BuilderWireCodingChallenge\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Tech Exam\BuilderWireCodingChallenge\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Tech Exam\BuilderWireCodingChallenge\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Tech Exam\BuilderWireCodingChallenge\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Tech Exam\BuilderWireCodingChallenge\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Tech Exam\BuilderWireCodingChallenge\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ASUS\Documents\GitHub\ArvinSiozonBuildwireTechnicalExam\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\BuilderWireCodingChallenge.exe
+C:\Users\ASUS\Documents\GitHub\ArvinSiozonBuildwireTechnicalExam\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\BuilderWireCodingChallenge.dll.config
+C:\Users\ASUS\Documents\GitHub\ArvinSiozonBuildwireTechnicalExam\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\BuilderWireCodingChallenge.deps.json
+C:\Users\ASUS\Documents\GitHub\ArvinSiozonBuildwireTechnicalExam\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\BuilderWireCodingChallenge.runtimeconfig.json
+C:\Users\ASUS\Documents\GitHub\ArvinSiozonBuildwireTechnicalExam\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\BuilderWireCodingChallenge.runtimeconfig.dev.json
+C:\Users\ASUS\Documents\GitHub\ArvinSiozonBuildwireTechnicalExam\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\BuilderWireCodingChallenge.dll
+C:\Users\ASUS\Documents\GitHub\ArvinSiozonBuildwireTechnicalExam\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\BuilderWireCodingChallenge.pdb
+C:\Users\ASUS\Documents\GitHub\ArvinSiozonBuildwireTechnicalExam\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\Documents\GitHub\ArvinSiozonBuildwireTechnicalExam\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Documents\GitHub\ArvinSiozonBuildwireTechnicalExam\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\ASUS\Documents\GitHub\ArvinSiozonBuildwireTechnicalExam\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Documents\GitHub\ArvinSiozonBuildwireTechnicalExam\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\ASUS\Documents\GitHub\ArvinSiozonBuildwireTechnicalExam\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\ASUS\Documents\GitHub\ArvinSiozonBuildwireTechnicalExam\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\Documents\GitHub\ArvinSiozonBuildwireTechnicalExam\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ASUS\Documents\GitHub\ArvinSiozonBuildwireTechnicalExam\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ASUS\Documents\GitHub\ArvinSiozonBuildwireTechnicalExam\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Documents\GitHub\ArvinSiozonBuildwireTechnicalExam\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ASUS\Documents\GitHub\ArvinSiozonBuildwireTechnicalExam\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\BuilderWireCodingChallenge.Business.dll
+C:\Users\ASUS\Documents\GitHub\ArvinSiozonBuildwireTechnicalExam\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\BuilderWireCodingChallenge.Domain.dll
+C:\Users\ASUS\Documents\GitHub\ArvinSiozonBuildwireTechnicalExam\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\BuilderWireCodingChallenge.Business.pdb
+C:\Users\ASUS\Documents\GitHub\ArvinSiozonBuildwireTechnicalExam\BuilderWireCodingChallenge\bin\Debug\netcoreapp3.1\BuilderWireCodingChallenge.Domain.pdb
+C:\Users\ASUS\Documents\GitHub\ArvinSiozonBuildwireTechnicalExam\BuilderWireCodingChallenge\obj\Debug\netcoreapp3.1\BuilderWireCodingChallenge.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\ArvinSiozonBuildwireTechnicalExam\BuilderWireCodingChallenge\obj\Debug\netcoreapp3.1\BuilderWireCodingChallenge.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\GitHub\ArvinSiozonBuildwireTechnicalExam\BuilderWireCodingChallenge\obj\Debug\netcoreapp3.1\BuilderWireCodingChallenge.AssemblyInfo.cs
+C:\Users\ASUS\Documents\GitHub\ArvinSiozonBuildwireTechnicalExam\BuilderWireCodingChallenge\obj\Debug\netcoreapp3.1\BuilderWireCodingChallenge.csproj.CopyComplete
+C:\Users\ASUS\Documents\GitHub\ArvinSiozonBuildwireTechnicalExam\BuilderWireCodingChallenge\obj\Debug\netcoreapp3.1\BuilderWireCodingChallenge.dll
+C:\Users\ASUS\Documents\GitHub\ArvinSiozonBuildwireTechnicalExam\BuilderWireCodingChallenge\obj\Debug\netcoreapp3.1\BuilderWireCodingChallenge.pdb
+C:\Users\ASUS\Documents\GitHub\ArvinSiozonBuildwireTechnicalExam\BuilderWireCodingChallenge\obj\Debug\netcoreapp3.1\BuilderWireCodingChallenge.genruntimeconfig.cache
